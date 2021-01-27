@@ -48,7 +48,18 @@
 
   </ul> <!-- ul.nav.flex-column -->
 
-  <div class="sidebar-bottom mt-auto d-flex flex-wrap justify-content-center">
+  <div class="sidebar-bottom mt-auto px-4 d-flex flex-wrap justify-content-around">
+
+    {% unless site.theme_mode %}
+
+      <span id="mode-toggle-wrapper" class="order-1">
+        {% include mode-toggle.html %}
+      </span>
+
+      {% if site.data.contact.size > 0 %}
+        <span class="icon-border order-2"></span>
+      {% endif %}
+    {% endunless %}
 
     {% for entry in site.data.contact %}
       {% capture url %}
@@ -80,15 +91,6 @@
 
     {% endfor %}
 
-    {% unless site.theme_mode %}
-      {% if site.data.contact.size > 0 %}
-        <span class="icon-border order-2"></span>
-      {% endif %}
-
-      <span id="mode-toggle-wrapper" class="order-1">
-        {% include mode-toggle.html %}
-      </span>
-    {% endunless %}
 
   </div> <!-- .sidebar-bottom -->
 
