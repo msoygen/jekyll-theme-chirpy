@@ -56,7 +56,7 @@ Every single level is the same as the others. There is only one obstacle type wh
 
 - Poor and insufficient animations.
 
-In a fast paced gameplay, the absence of animations are cruel to the players. In our prototype there were 3 animations: player running, cylinder slowly expanding or shrinking and flying from the final ramp. It looks incomplete. Some other teams did a really good job(I can't review it technically. Only from a players point of view.) on animations and fulfilled satisfaction feel. It helps a lot for building feelings on players.
+In a fast paced gameplay, the absence of animations are cruel to the players. In our prototype there were 3 animations: player running, cylinder slowly expanding or shrinking and flying from the final ramp. It looks incomplete. Some other teams did a really good job(I can't review it technically. Only from a player's point of view.) on animations and fulfilled satisfaction feel. It helps a lot for building feelings on players.
 
 - Limited use of physics.
 
@@ -64,7 +64,7 @@ As the theme suggests we should have used physics more interactively. At first w
 
 - Fixed camera movements.
 
-Camera was straight forward, just following the player from a distance. No exitement, no surprises.
+Camera was straight forward, just following the player from a distance. No excitement, no surprises.
 
 - Missing satisfying and frustrating gameplay.
 
