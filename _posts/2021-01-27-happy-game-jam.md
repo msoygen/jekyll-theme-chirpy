@@ -52,7 +52,7 @@ Game ends where player flys from a ramp and lands back to the ground. So????
 
 - Poor diversity on levels.
 
-Every single level is the same as the others. There is only one obstacle which are ramps sprinkled around te level and only pick ups are color plates.
+Every single level is the same as the others. There is only one obstacle type which is ramp and only pick ups are color plates.
 
 - Poor and insufficient animations.
 
