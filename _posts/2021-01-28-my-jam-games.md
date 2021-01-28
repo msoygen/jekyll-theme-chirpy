@@ -15,9 +15,9 @@ pin: true
 
 Team:
 * @me - Programmer
-* Burak Ergül - Programmer
-* Uzay Adıgüzel - Level Designer & UI/UX
-* Uğur Arsen - UI/UX & 3D Design
+* Burak Ergül - Programmer - [Linkedin](https://www.linkedin.com/in/lugreb/)
+* Uzay Adıgüzel - Level Designer & UI/UX - [Linkedin](https://www.linkedin.com/in/uzay-adiguzel/)
+* Uğur Arsen - UI/UX & 3D Design - [Linkedin](https://www.linkedin.com/in/u%C4%9Fur-arsen-977901127/)
 
 ## PURA Game Jam
 
@@ -26,8 +26,8 @@ Team:
 Postmortem - Coming soon
 
 Team:
-* @me - Programmer & Plot
-* Uzay Adıgüzel - Level Design & UI/UX
-* Burak Ergül - Programmer
+* @me - Programmer & Plot 
+* Uzay Adıgüzel - Level Design & UI/UX - [Linkedin](https://www.linkedin.com/in/uzay-adiguzel/)
+* Burak Ergül - Programmer - [Linkedin](https://www.linkedin.com/in/lugreb/)
 
 ## Global Game Jam 2021 - Coming Soon
