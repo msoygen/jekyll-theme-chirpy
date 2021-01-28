@@ -4,6 +4,7 @@ author: M Serdar Oygen
 date: 2021-01-27 21:03:00 +0800
 categories: [Events & Jams, Game Jams]
 tags: [happy game jam, game dev, game jam]
+image: /assets/img/happy-game-jam/hgj-title.png
 ---
 
 ## Introduction 
