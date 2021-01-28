@@ -23,7 +23,7 @@ _Theme rules from kick off presentation_
 
 *Hypercasual runner game based around physics and satisfying or frustrating gameplay.*
 
-There are two key points in the theme. Happy Game Jam organizers explains them as follows,
+There are two key points in the theme. Happy Game Jam organizers explained them as follows,
 
 First, physics:
   - It's intuitive,
@@ -37,7 +37,7 @@ Second, satisfying or frustrating:
   - Reactive gameplay
 
 
-We prototyped ton of ideas on paper and tried to cover theme rules. We failed every single time until the last one. Whenever one of my teammates comes up with an idea it sounds awesome at first but later when we try to turn it into a game, problems occured such as "what is the goal?", "what makes a win or lose?", "what are the elements that gives density to gameplay?", "why it is not fun to play?", etc.. Eventually we answered the questions and moved on to the prototyping part.
+We prototyped ton of ideas on paper and tried to cover theme rules. We failed every single time until the last one. Whenever one of my teammates comes up with an idea it sounds awesome at first but later when we try to turn it into a game, problems occured such as "what is the goal?", "what makes a win or lose?", "what are the elements that gives density to gameplay?", "why is it not fun to play?", etc.. Eventually we answered the questions and moved on to the prototyping part.
 
 ### Prototyping
 
