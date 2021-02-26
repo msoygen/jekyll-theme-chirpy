@@ -3,8 +3,8 @@ title: Happy Game Jam Post-Mortem
 author: M Serdar Oygen
 date: 2021-01-27 21:03:00 +0800
 categories: [Events & Jams, Game Jams]
-tags: [happy game jam, game dev, game jam]
-image: /assets/img/happy-game-jam/hgj-title.png
+tags: [happy game jam, game dev, game jam, post-mortem]
+image: /assets/img/happy-game-jam-post-mortem/hgj-title.png
 ---
 
 ## Introduction 
@@ -18,7 +18,7 @@ Theme announced as physics based hypercasual runner game with satisfying or frus
 
 ### Theme
 
-![theme-rules](/assets/img/happy-game-jam/theme-rules.png)
+![theme-rules](/assets/img/happy-game-jam-post-mortem/theme-rules.png)
 _Theme rules from kick off presentation_
 
 *Hypercasual runner game based around physics and satisfying or frustrating gameplay.*
@@ -44,7 +44,7 @@ We prototyped ton of ideas on paper and tried to cover theme rules. We failed ev
 We were team of four. 1 level designer, 1 UI/UX designer and 2 developers(I'm one of the developers). We discussed the structure and methods we are going to use then split the work. Meanwhile it was the 3rd day. Idea part took two and a half day. I'm not gonna talk about the developing process. We didn't do anything special on that part but I'm definetely going to tell you why we failed so badly. Let's take a look at in game screenshots and continue with another bullet list :D
 
 |                 |                  |                         |
-| ![roll a color 3d in game screenshot 1](/assets/img/happy-game-jam/roll-a-color-1.jpg) | ![roll a color 3d in game screenshot 2](/assets/img/happy-game-jam/roll-a-color-2.jpg) | ![roll a color 3d in game screenshot 3](/assets/img/happy-game-jam/roll-a-color-3.jpg) |
+| ![roll a color 3d in game screenshot 1](/assets/img/happy-game-jam-post-mortem/roll-a-color-1.jpg) | ![roll a color 3d in game screenshot 2](/assets/img/happy-game-jam-post-mortem/roll-a-color-2.jpg) | ![roll a color 3d in game screenshot 3](/assets/img/happy-game-jam-post-mortem/roll-a-color-3.jpg) |
 
 
 - There is no ending.
