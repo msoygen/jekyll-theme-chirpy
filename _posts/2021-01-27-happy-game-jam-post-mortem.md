@@ -1,5 +1,5 @@
 ---
-title: Happy Game Jam
+title: Happy Game Jam Post-Mortem
 author: M Serdar Oygen
 date: 2021-01-27 21:03:00 +0800
 categories: [Events & Jams, Game Jams]
