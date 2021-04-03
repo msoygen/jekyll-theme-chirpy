@@ -23,11 +23,20 @@ Team:
 
 [Itch.io](https://rock0n.itch.io/my-apocalypse)
 
-Postmortem - Coming soon
+[Postmortem](https://msoygen.github.io/posts/pura-game-jam-post-mortem/)
 
 Team:
 * @me - Programmer & Plot 
 * Uzay Adıgüzel - Level Design & UI/UX - [Linkedin](https://www.linkedin.com/in/uzay-adiguzel/)
 * Burak Ergül - Programmer - [Linkedin](https://www.linkedin.com/in/lugreb/)
 
-## Global Game Jam 2021 - Coming Soon
+## Global Game Jam 2021
+
+[Itch.io](https://rock0n.itch.io/milky-way)
+
+Team:
+* Ahmet Kaan Gümüş - Story - https://tahinli.itch.io/
+* Yasemin Yağcı - Game Designer and Artist - https://www.artstation.com/yaseminy
+* Resul Kabak - Programmer - https://www.instagram.com/rsl.kbk/
+* @me M Serdar Oygen - Programmer - https://twitter.com/mserdaroygen
+* Avi Medina - Sound Designer and Artist - https://www.instagram.com/medinavi/

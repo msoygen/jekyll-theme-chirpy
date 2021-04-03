@@ -17,6 +17,9 @@
   type: linkedin
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
 -
+  type: youtube
+  icon: fab fa-youtube
+-
   type: email
   icon: 'fas fa-envelope'
   noblank: true            # open link in current tab
