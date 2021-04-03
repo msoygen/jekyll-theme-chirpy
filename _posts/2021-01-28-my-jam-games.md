@@ -35,8 +35,8 @@ Team:
 [Itch.io](https://rock0n.itch.io/milky-way)
 
 Team:
-* Ahmet Kaan Gümüş - Story - https://tahinli.itch.io/
-* Yasemin Yağcı - Game Designer and Artist - https://www.artstation.com/yaseminy
-* Resul Kabak - Programmer - https://www.instagram.com/rsl.kbk/
-* @me M Serdar Oygen - Programmer - https://twitter.com/mserdaroygen
-* Avi Medina - Sound Designer and Artist - https://www.instagram.com/medinavi/
+* Ahmet Kaan Gümüş - Story - [itch.io](https://tahinli.itch.io/)
+* Yasemin Yağcı - Game Designer and Artist - [ArtStation](https://www.artstation.com/yaseminy)
+* Resul Kabak - Programmer - [Instagram](https://www.instagram.com/rsl.kbk/)
+* @me - Programmer
+* Avi Medina - Sound Designer and Artist - [Instagram](https://www.instagram.com/medinavi/)
