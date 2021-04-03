@@ -72,7 +72,7 @@
         {%- elsif entry.type == 'itch' -%}
           https://{{site.itch.username}}.itch.io/
         {%- elsif entry.type == 'youtube' -%}
-          site.youtube.url
+          {{site.youtube.url}}
         {%- elsif entry.type == 'email' -%}
           {% assign email = site.social.email | split: '@' %}
           javascript:location.href = 'mailto:' + ['{{ email[0] }}','{{ email[1] }}'].join('@')
