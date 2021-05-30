@@ -15,7 +15,7 @@ Past Jams:
   - [Happy Game Jam](https://www.happygamejam.com/) (*participant*)
   - [PURA Game Jam](https://www.ieeehacettepe.org/puragamejam) (*participant*)
   - [ÜNOG](https://unog.dev/) GGJ 2021 (*participant*)
-  - [GAMEHIGHED Jam 2021](https://itch.io/jam/gamehighed-jam-2021) (*participant)
+  - [GAMEHIGHED Jam 2021](https://itch.io/jam/gamehighed-jam-2021) (*participant*)
 
 Past Conferences and Other Events:
   - [Global StartUp Weekend 2018](http://pusulaonkulucka.com/icerik.php?mm=8) (*participant & on-site crew*), 
